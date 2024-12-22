@@ -343,8 +343,8 @@
     <string name="mute">Mute</string>
     <string name="buttons_position"> Posición del Joystick</string>
     <string name="setup_controls">Configurar controles</string>
-    <string name="left">Derecha</string>
-    <string name="right">Izquierda</string>
+    <string name="left">Izquierda</string>
+    <string name="right">Derecha</string>
     <string name="follow">Seguir</string>
     <string name="private_servers_list">Lista de servidores privados</string>
     <string name="bots">Bots</string>
