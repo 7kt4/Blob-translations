@@ -324,7 +324,7 @@
     <string name="reset_in">(reinicia em %s)</string>
     <string name="q_replace_desc">Una vez al día, puedes reemplazar cualquier misión por otra aleatoria!</string>
     <string name="replace">Cambiar</string>
-    <string name="q_choose_replace">Elija la misión que deseas cambiar</string>
+    <string name="q_choose_replace">Elige la misión que deseas cambiar</string>
     <string name="q_replace_x">Cambiar misión %s ?</string>
     <string name="q_replaced">Misión cambiada!</string>
     <string name="completed">Terminado</string>
